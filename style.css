@@ -2,6 +2,8 @@
     background-color: #014141;
     padding: 6px;
     height: 186px;
+    position: fixed;
+    width: 100%;
 }
 
 .header h1 {
@@ -23,6 +25,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    text-align: center;
   }
   
   li {
@@ -44,4 +47,8 @@ ul {
   li a:hover {
       background-color: #800000;
       border-radius: 8px;
+  }
+
+  li a:active {
+      background-color: #800000;
   }

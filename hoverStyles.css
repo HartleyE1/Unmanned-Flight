@@ -1,36 +1,36 @@
-#menueImg1 {
+#menuImg1 {
     padding-top: 7px;  
     visibility: hidden;
       height: 1px;
       border-radius: 10px;
   }
-  #menueLi1:hover > #menueImg1 {
+  #menuLi1:hover > #menuImg1 {
       visibility: visible;
       height: 186px;
       width: 272px;
   }
 
 
-  #menueImg2 {
+  #menuImg2 {
     padding-top: 7px;  
     visibility: hidden;
       height: 1px;
       border-radius: 10px;
   }
-  #menueLi2:hover > #menueImg2 {
+  #menuLi2:hover > #menuImg2 {
       visibility: visible;
       height: 186px;
       width: 272px;
   }
 
 
-  #menueImg3 {
+  #menuImg3 {
     padding-top: 7px;  
     visibility: hidden;
       height: 1px;
       border-radius: 10px;
   }
-  #menueLi3:hover > #menueImg3 {
+  #menuLi3:hover > #menuImg3 {
       visibility: visible;
       height: 186px;
       width: 272px;
