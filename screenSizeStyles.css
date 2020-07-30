@@ -7,9 +7,3 @@
 @media screen and (max-width: 1200px) {
     #mobileMenu {visibility: visible;}
 }
-
-@media screen and (max-width: 1400px) {
-  #menuLi1 {
-      left: 12.5%;
-  }
-}
